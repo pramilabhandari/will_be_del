@@ -1,0 +1,4 @@
+void whatever(){
+	printf("hait");
+}
+
